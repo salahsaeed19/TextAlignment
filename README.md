@@ -32,34 +32,6 @@ This code snippet generates a pattern resembling the word "Salah" using a specif
 
 3. Observe the pattern generated in the console.
 
-## Example
-
-Suppose you input a thickness of 4:
-
-
-   H
-  HHH
- HHHHH
-HHHHHHH
-  HHHH            HHHH
-  HHHH            HHHH
-  HHHH            HHHH
-  HHHH            HHHH
-  HHHH            HHHH
-  HHHHHHHHHHHHHHHHHHHH
-  HHHHHHHHHHHHHHHHHHHH
-  HHHH            HHHH
-  HHHH            HHHH
-  HHHH            HHHH
-  HHHH            HHHH
-  HHHH            HHHH
-                HHHHHHH
-                 HHHHH
-                  HHH
-                   H
-
-
-
 ## Notes
 
 - The pattern's appearance will vary based on the chosen character and thickness.
